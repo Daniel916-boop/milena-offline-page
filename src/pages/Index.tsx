@@ -33,7 +33,7 @@ const Index = () => {
             </p>
             
             <p className="text-sm">
-              Identificamos a remoção da conta por parte da plataforma devido à identificação de conteúdo considerado malicioso pelas diretrizes do TikTok.
+              Identificamos a remoção da conta por parte da plataforma devido à identificação de conteúdo considerado +18 pelas diretrizes do TikTok.
             </p>
             
             <p className="text-sm">
